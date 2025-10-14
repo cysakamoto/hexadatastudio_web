@@ -1,2 +1,4 @@
-# hexadatastudio_web
-Website for Hexadata Studio 
+# HexaData Studio - Website
+
+Repo for the website for Hexadata Studio 
+
